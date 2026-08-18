@@ -20,7 +20,7 @@ telemetry events at 99.9% uptime with sub-50ms P99 latency.
 - 🧠 Also building an AI Interview Coach — Spring Boot 3 / Java 21 backend + React/TypeScript frontend
 - 📍 Based in Pune, India — open to hybrid roles
 - 💬 Ask me about Java, Spring Boot, Microservices, Kafka, System Design
-- 📄 Resume: *(link coming soon)*
+- 📄 Resume: [View Resume](https://github.com/patilavi227-coder/patilavi227-coder/raw/main/Avinash_Patil_Resume.pdf)
 
 ---
 
